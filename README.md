@@ -11,6 +11,6 @@ cp .env.sample .env
 
 npm install
 
-tsc
+npm run dev
 
 ```
