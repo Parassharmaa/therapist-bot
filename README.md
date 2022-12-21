@@ -1,0 +1,7 @@
+### Setup
+```
+npm install
+
+tsc
+
+```
